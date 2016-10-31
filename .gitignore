@@ -1,0 +1,6 @@
+*.iml
+.idea/
+target/
+men:testDB.log
+men:testDB.properties
+men:testDB.script
